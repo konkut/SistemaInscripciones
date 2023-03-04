@@ -1,0 +1,28 @@
+
+body{
+	overflow-x:  hidden;
+}
+
+#content{
+	position: relative;
+}
+#fijo{
+	position: absolute ;
+	top: 0;
+	left: 0;
+}
+#imagen{
+	display: flex;
+	width:  15rem;
+	height:  15rem;
+	margin:  0 auto;
+}
+#titulo{
+	font-family: Times New Roman;
+	font-size:  2.5rem;
+}
+
+.modelo:hover{
+	background-color: #f834;
+}
+
